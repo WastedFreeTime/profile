@@ -1,4 +1,4 @@
-# 🟥🟧🟨🟦🟪🟥🟧🟨🟦🟪 About Me: 🟥🟧🟨🟦🟪🟥🟧🟨🟦🟪
+# 🟥🟥🟧🟧🟧🟪🟪🟪🟪🟪 ABOUT ME 🟪🟪🟪🟪🟪🟧🟧🟧🟥🟥
 Hey, <br>thats my generic 'about me'....<br><br>I am just a simple dev dude. Building my own projects with focus on Frontend, APIs, Big Data and Modern Design. <br><br>My GitHub is mostly for private repos.
 
 
