@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, <br>thats my generic 'about me'....<br>-----------------<br>My GitHub is mostly for private repos.
+Hey, <br>thats my generic 'about me'....<br>🟥🟧🟨🟦🟪🟥🟧🟨🟦🟪<br>I am just a simple dev dude. Building my own projects with focus on Frontend, APIs, Big Data and Modern Design. <br>🟥🟧🟨🟦🟪🟥🟧🟨🟦🟪<br>My GitHub is mostly for private repos.
 
 
 ## 🌐 Socials:
@@ -15,8 +15,8 @@ Hey, <br>thats my generic 'about me'....<br>-----------------<br>My GitHub is mo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### RANDOM
+<img src="./meme" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WastedFreeTime&icon=0&color=0)](https://visitcount.itsvg.in)
